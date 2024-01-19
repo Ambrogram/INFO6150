@@ -1,0 +1,8 @@
+h1 {
+color: blue;
+}
+● Link the CSS file to the HTML file, using <link>.
+● Make sure you have a <h1> tag in your HTML, such as:
+<h1>
+This should be blue
+</h1>
